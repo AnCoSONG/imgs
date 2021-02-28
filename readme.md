@@ -1,1 +1,1 @@
-# This private repo is storing the imgs of blog.
+# This repo is storing the imgs of blog.
